@@ -1,0 +1,6 @@
+spyne
+zeep
+lxml
+requests
+openai
+pydantic
